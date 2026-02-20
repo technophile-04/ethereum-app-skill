@@ -27,6 +27,16 @@ Scaffold and build full-stack Ethereum dApps using create-eth (Scaffold-ETH 2). 
 - Starting a web3 project with Scaffold-ETH
 - Deploying a smart contract with a frontend
 
+### erc-20
+
+Add an ERC-20 fungible token contract to an SE-2 project using OpenZeppelin. Covers contract setup, deployment, frontend integration, and common gotchas (decimals, non-standard behaviors, security).
+
+**Use when:**
+
+- Creating a fungible token (ERC-20)
+- Adding token minting, transfers, or allowance UI
+- Working with existing ERC-20 tokens in an SE-2 project
+
 ### ponder
 
 Integrate Ponder into a Scaffold-ETH 2 project for blockchain event indexing and a GraphQL API backend. Covers the full SE-2-specific setup: config bridging, schema design, event handlers, and frontend integration.
