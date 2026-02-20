@@ -27,6 +27,16 @@ Scaffold and build full-stack Ethereum dApps using create-eth (Scaffold-ETH 2). 
 - Starting a web3 project with Scaffold-ETH
 - Deploying a smart contract with a frontend
 
+### eip-5792
+
+Add EIP-5792 batched transaction support to an SE-2 project. Covers wallet capability detection, batched contract writes with wagmi hooks, status tracking, and optional paymaster (ERC-7677) integration.
+
+**Use when:**
+
+- Batching multiple contract calls into a single wallet interaction
+- Adding EIP-5792 wallet support to an SE-2 project
+- Integrating paymaster/gas sponsorship features
+
 ### erc-20
 
 Add an ERC-20 fungible token contract to an SE-2 project using OpenZeppelin. Covers contract setup, deployment, frontend integration, and common gotchas (decimals, non-standard behaviors, security).
