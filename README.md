@@ -8,11 +8,11 @@ The core `ethereum-app-builder` skill scaffolds projects and automatically disco
 
 ```bash
 # Install all skills
-npx skills add buidlguidl/ethereum-app-skill
+npx skills add technophile-04/ethereum-app-skill
 
 # Install a specific skill
-npx skills add buidlguidl/ethereum-app-skill --skills ethereum-app-builder
-npx skills add buidlguidl/ethereum-app-skill --skills ponder
+npx skills add technophile-04/ethereum-app-skill --skills ethereum-app-builder
+npx skills add technophile-04/ethereum-app-skill --skills ponder
 ```
 
 ## Available Skills
