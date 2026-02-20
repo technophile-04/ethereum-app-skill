@@ -26,11 +26,11 @@ Once the scaffold is on disk, read `<project-name>/AGENTS.md` -- this is the sou
 
 ## Step 3: Fetch Reference Skills (if needed)
 
-This skill is part of a larger package with sibling skills for specialized Ethereum needs (event indexing, token standards, etc.). They live alongside this skill in the parent directory. If any skill is relevant to what the user is building, read and use it.
+Check the [ethereum-app-skill](https://github.com/technophile-04/ethereum-app-skill) repository for reference skills that cover specialized Ethereum needs (event indexing, token standards, etc.). If any skill is relevant to what the user is building, fetch and use it.
 
 Known reference skills:
 
-- [**Ponder**](../ponder/SKILL.md) -- Blockchain event indexing with Ponder, including SE-2 integration, schema setup, and GraphQL API
+- [**Ponder**](https://raw.githubusercontent.com/technophile-04/ethereum-app-skill/main/skills/ponder/SKILL.md) -- Blockchain event indexing with Ponder, including SE-2 integration, schema setup, and GraphQL API
 
 ## Step 4: Build the User's Idea
 
