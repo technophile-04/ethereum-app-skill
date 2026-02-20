@@ -37,6 +37,16 @@ Add an ERC-20 fungible token contract to an SE-2 project using OpenZeppelin. Cov
 - Adding token minting, transfers, or allowance UI
 - Working with existing ERC-20 tokens in an SE-2 project
 
+### erc-721
+
+Add an ERC-721 NFT contract to an SE-2 project using OpenZeppelin. Covers contract setup, deployment, frontend integration, metadata patterns, and common gotchas (reentrancy via safeMint, gas costs, royalties).
+
+**Use when:**
+
+- Creating an NFT collection (ERC-721)
+- Adding NFT minting, gallery, or transfer UI
+- Working with non-fungible tokens in an SE-2 project
+
 ### ponder
 
 Integrate Ponder into a Scaffold-ETH 2 project for blockchain event indexing and a GraphQL API backend. Covers the full SE-2-specific setup: config bridging, schema design, event handlers, and frontend integration.
